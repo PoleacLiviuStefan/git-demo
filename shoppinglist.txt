@@ -2,4 +2,7 @@ cartofi
 paine
 oua 
 lapte
-rosii branza
+rosii 
+branza
+banane
+mere
