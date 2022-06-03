@@ -5,4 +5,3 @@ lapte
 rosii 
 branza
 banane
-mere
